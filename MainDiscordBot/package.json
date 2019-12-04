@@ -1,0 +1,11 @@
+{
+  "name": "mdb",
+  "version": "1.0.0",
+  "description": " Discord Bot",
+  "main": "bot.js",
+  "author": "TheLaw",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
